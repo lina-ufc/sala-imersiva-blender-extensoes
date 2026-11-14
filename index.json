@@ -7,7 +7,7 @@
       "id": "nuvens_lina",
       "name": "Nuvens do LInA",
       "tagline": "Sala liberada ao soltar, visor das cinco telas, Modo leve",
-      "version": "1.18.1",
+      "version": "1.19.0",
       "type": "add-on",
       "maintainer": "LInA - Projeto ITA",
       "license": [
@@ -17,9 +17,9 @@
       "permissions": {
         "files": "Grava as imagens das cinco c\u00e2meras que o visor junta"
       },
-      "archive_url": "./nuvens_lina-1.18.1.zip",
-      "archive_size": 88347,
-      "archive_hash": "sha256:1dcf7c9a8999a298bb28dac4271ba8e7c50915d0c16ab6dc37e0e4c9642edf8e"
+      "archive_url": "./nuvens_lina-1.19.0.zip",
+      "archive_size": 87096,
+      "archive_hash": "sha256:948e3532bc8f8db3400fb7f157a1288c8a492ed0733ae80b525e45f78821ab7a"
     }
   ]
 }
