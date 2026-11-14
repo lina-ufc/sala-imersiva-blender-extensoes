@@ -4,10 +4,10 @@
   "data": [
     {
       "schema_version": "1.0.0",
-      "id": "nuvens_lina",
-      "name": "Nuvens do LInA",
-      "tagline": "Sala liberada ao soltar, visor das cinco telas, Modo leve",
-      "version": "1.21.0",
+      "id": "sala_imersiva",
+      "name": "Sala imersiva",
+      "tagline": "Sala pronta para soltar, visor das cinco telas e render da fita",
+      "version": "1.0.0",
       "type": "add-on",
       "maintainer": "LInA - Projeto ITA",
       "license": [
@@ -17,9 +17,25 @@
       "permissions": {
         "files": "Grava as imagens das cinco c\u00e2meras que o visor junta"
       },
-      "archive_url": "./nuvens_lina-1.21.0.zip",
-      "archive_size": 88854,
-      "archive_hash": "sha256:c09828d5b76c35b7f1f8b7510c4fbc96f37ad2a6e1b1790a46112e301f0ab86c"
+      "archive_url": "./sala_imersiva-1.0.0.zip",
+      "archive_size": 144383,
+      "archive_hash": "sha256:84967aa86bda20741fd4ca86018a5a18aed36b38a989b4fa9f31064c96b1d5fa"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "nuvens_lina",
+      "name": "Nuvens do LInA",
+      "tagline": "Modo leve: nuvens de pontos leves na janela, sem mudar o render",
+      "version": "2.0.0",
+      "type": "add-on",
+      "maintainer": "LInA - Projeto ITA",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "5.2.0",
+      "archive_url": "./nuvens_lina-2.0.0.zip",
+      "archive_size": 57466,
+      "archive_hash": "sha256:a0303f64089c0ce2150a9a7cb109350bb59e98f94b47489f3f1768cdeff1ba4b"
     }
   ]
 }

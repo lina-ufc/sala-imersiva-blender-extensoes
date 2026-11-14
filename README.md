@@ -8,6 +8,6 @@ No Blender: *Edit > Preferences > Get Extensions > Repositories* (seta no canto 
 https://lina-ufc.github.io/sala-imersiva-blender-extensoes/index.json
 ```
 
-e *Check for Updates on Startup* marcado. Depois, instale *Nuvens do LInA* na lista de extensões. O Blender avisa quando sair versão nova.
+e *Check for Updates on Startup* marcado. Depois, instale na lista de extensões a *Sala imersiva* (a Sala, o visor e o render da fita) e, no Filme da Nuvem, também a *Nuvens do LInA* (o Modo leve). O Blender avisa quando sair versão nova.
 
 O código das extensões fica em outro repositório; este só guarda os pacotes e a lista gerada pelo Blender (`extension server-generate`).
