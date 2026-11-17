@@ -26,16 +26,16 @@
       "id": "nuvens_lina",
       "name": "Nuvens do LInA",
       "tagline": "Modo leve: nuvens de pontos leves na janela, sem mudar o render",
-      "version": "2.0.1",
+      "version": "2.1.0",
       "type": "add-on",
       "maintainer": "LInA - Projeto ITA",
       "license": [
         "SPDX:GPL-3.0-or-later"
       ],
       "blender_version_min": "5.2.0",
-      "archive_url": "./nuvens_lina-2.0.1.zip",
-      "archive_size": 57523,
-      "archive_hash": "sha256:cb0c5d0685aea648351d77c9024e0f7040301f969eb916bb45cf9a68fa08f0b6"
+      "archive_url": "./nuvens_lina-2.1.0.zip",
+      "archive_size": 61085,
+      "archive_hash": "sha256:78bd81a3bf53b9f457b75ddc06c00f264a5307a13c735a53fabb6785d5f4d16e"
     }
   ]
 }
