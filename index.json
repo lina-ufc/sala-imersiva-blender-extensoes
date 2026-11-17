@@ -7,7 +7,7 @@
       "id": "sala_imersiva",
       "name": "Sala imersiva",
       "tagline": "Sala pronta para soltar, visor das cinco telas e render da fita",
-      "version": "1.0.2",
+      "version": "1.1.0",
       "type": "add-on",
       "maintainer": "LInA - Projeto ITA",
       "license": [
@@ -17,9 +17,9 @@
       "permissions": {
         "files": "Grava as imagens das cinco c\u00e2meras que o visor junta"
       },
-      "archive_url": "./sala_imersiva-1.0.2.zip",
-      "archive_size": 145240,
-      "archive_hash": "sha256:d809af53e3ce2c7b8b46642e9a5691ba8ab7ae0e6ee7345badaee022f2653f82"
+      "archive_url": "./sala_imersiva-1.1.0.zip",
+      "archive_size": 146243,
+      "archive_hash": "sha256:fb0d735fa43b862d263fa4bd958f0e64e824fa60d2db082639bfbdd6aa351345"
     },
     {
       "schema_version": "1.0.0",
